@@ -22,9 +22,6 @@
 - `Ball.java`  
   Represents an individual ball, encapsulating properties such as position, velocity, radius, and physical behaviors.
 
-- `Boundary.java`  
-  Defines the simulation area's limits. Handles boundary collision detection and response.
-
 ## Dependencies
 
 - JavaFX — For UI rendering and animation support
