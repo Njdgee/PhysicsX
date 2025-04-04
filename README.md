@@ -41,8 +41,7 @@
 The following screenshots demonstrate the core features of the physics simulator, including gravity, ball-to-ball collision, boundary collision, and user interactions.
 
 ### Demo
-<img src="demos/1.png" width="600"/>  
-<img src="demos/2.png" width="600"/>
-<img src="demos/3.png" width="600"/>
-<img src="demos/r4.gif" width="600"/>  
+### Demo
+<img src="demos/1.png" width="300"/> <img src="demos/2.png" width="300"/>  
+<img src="demos/3.png" width="300"/> <img src="demos/r4.gif" width="300"/>
 
