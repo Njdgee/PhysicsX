@@ -10,7 +10,11 @@ module njdge.com.physicsx {
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
     requires com.almasb.fxgl.all;
+    requires static lombok;
 
     opens njdge.com.physicsx to javafx.fxml;
     exports njdge.com.physicsx;
+    exports njdge.com.physicsx.ball;
+    opens njdge.com.physicsx.ball to javafx.fxml;
+
 }

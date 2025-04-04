@@ -5,7 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8486b0e0-b20f-4dea-bebd-6dfc134a27c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/demos/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demos/r4.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/njdge/com/physicsx/Boundary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/njdge/com/physicsx/Boundary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/njdge/com/physicsx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/njdge/com/physicsx/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/njdge/com/physicsx/PhysicsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/njdge/com/physicsx/PhysicsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/njdge/com/physicsx/ball/Ball.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/njdge/com/physicsx/ball/Ball.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/njdge/com/physicsx/ball/BallManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/njdge/com/physicsx/ball/BallManager.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/njdge/com/physicsx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/njdge/com/physicsx/hello-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,11 +25,42 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1743736999" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1743736998" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -26,9 +69,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2sC3Kf1YzakL1V4eP5JkIQfM5nr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -37,13 +80,59 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/idea3c/IdeaProjects/PhysicsX/demos",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="njdge.com.physicsx.Main" />
+      <module name="PhysicsX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="njdge.com.physicsx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="njdge.com.physicsx.Main" />
+      <module name="PhysicsX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="njdge.com.physicsx.ball.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,7 +149,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737945666733</updated>
-      <workItem from="1737945667735" duration="1000" />
+      <workItem from="1737945667735" duration="21217000" />
+      <workItem from="1743736876472" duration="1452000" />
     </task>
     <servers />
   </component>
